@@ -20,4 +20,5 @@ fn main() {
             EnumCores::Cor3(nome) => println!("Cor 3: {}", nome),
         }
     }
+
 }

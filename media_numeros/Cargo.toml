@@ -1,5 +1,5 @@
 [package]
-name = "vetores_rust"
+name = "media_numeros"
 version = "0.1.0"
 edition = "2021"
 
